@@ -4,13 +4,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheBoyScoutRule", "TheBoySc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBoyScoutRule", "TheBoyScoutRule\TheBoyScoutRule.csproj", "{193CCA37-8CD7-49FF-96CB-AE0A0E155C44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBoyScoutRule.Tests", "TheBoyScoutRule.Tests\TheBoyScoutRule.Tests\TheBoyScoutRule.Tests.csproj", "{0A3C1DF8-001B-4D90-8166-12C487D998B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBoyScoutRule.Tests", "TheBoyScoutRule.Tests\TheBoyScoutRule.Tests.csproj", "{0A3C1DF8-001B-4D90-8166-12C487D998B2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BeforeYouRefactor", "BeforeYouRefactor", "{E21923FF-F0DB-4CBD-94D6-498F6DCA499F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeYouRefactor", "BeforeYouRefactor\BeforeYouRefactor.csproj", "{C2F1BA55-9EE1-42F8-B1B3-70F4719CCEC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeYouRefactor.Tests", "BeforeYouRefactor.Tests\BeforeYouRefactor.Tests\BeforeYouRefactor.Tests.csproj", "{2AD60617-D00A-4DE7-B9CA-536EDEFE8385}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeYouRefactor.Tests", "BeforeYouRefactor.Tests\BeforeYouRefactor.Tests.csproj", "{2AD60617-D00A-4DE7-B9CA-536EDEFE8385}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BrokenWindowTheory", "BrokenWindowTheory", "{C00B321D-84FE-4438-BF23-AE4D74424972}"
 EndProject
